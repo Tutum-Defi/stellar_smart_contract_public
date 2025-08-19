@@ -13,9 +13,9 @@ Our minimum viable product is currently live and operational on Kadena EVM:
 - **Platform**: [tutum.so](https://tutum.so)
 
 ### Test Deployment
-A test version of the Tutum contract is deployed on Stellar Testnet for evaluation and testing:
-- **Contract Address**: `CBHO6VNCMEWLCZXDW2T7B6VOYH7C2MW7KYOXEQCMYRD5K6ROX26XSEMX`
-- **Explorer Link**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBHO6VNCMEWLCZXDW2T7B6VOYH7C2MW7KYOXEQCMYRD5K6ROX26XSEMX?filter=interface)
+A test version of the Tutum contract is deployed on Stellar Mainnet for evaluation and testing:
+- **Contract Address**: `CAUSE4KH5IDFLOJRZXICMYB22H5IG6CT37QGF2DUOYGUMAVJ4IJ5ZSDH`
+- **Explorer Link**: [View on Stellar Expert](https://stellar.expert/explorer/public/contract/CAUSE4KH5IDFLOJRZXICMYB22H5IG6CT37QGF2DUOYGUMAVJ4IJ5ZSDH)
 
 ## Security & Transparency
 
